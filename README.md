@@ -22,6 +22,7 @@ Using Canny operator from cv2,detect the edges of the image.
 ### Step5:
 
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
+
 ## Program:
 ```
 # Developed By: MONISH N
@@ -35,7 +36,8 @@ plt.title('Input Image')
 plt.axis('off')
 plt.show()
 ```
-![download](https://github.com/user-attachments/assets/f480d966-9dd2-4135-97d2-08d4986113c7)
+![Screenshot 2025-04-28 214711](https://github.com/user-attachments/assets/6e909e16-2363-4096-885f-91973fa1f322)
+
 ```
 # Developed By: MONISH N
 # Register Number: 212223240097
@@ -48,9 +50,7 @@ plt.title('Grayscale Image')
 plt.axis('off')
 plt.show()
 ```
-![download](https://github.com/user-attachments/assets/a22afc37-e376-4f9b-a31e-cb7ba91829cb)
-
-
+![Screenshot 2025-04-28 214743](https://github.com/user-attachments/assets/0b770d58-02f2-44fd-b136-c56cdaf63898)
 
 ```
 # Developed By: MONISH N
@@ -63,8 +63,8 @@ plt.title('Canny Edge Detector Output')
 plt.axis('off')
 plt.show()
 ```
-![download](https://github.com/user-attachments/assets/5bc8a797-6566-40df-80b4-5e0ee6303fc7)
 
+![Screenshot 2025-04-28 214826](https://github.com/user-attachments/assets/a3311295-7e75-49d6-80c8-d25c8dfe6392)
 
 ```
 # Detect lines using the probabilistic Hough transform
@@ -89,7 +89,8 @@ plt.axis('off')
 plt.show()
 
 ```
-![download](https://github.com/user-attachments/assets/895bc021-03c8-403e-87a3-b80f95f5220f)
+
+![Screenshot 2025-04-28 214926](https://github.com/user-attachments/assets/774cd46c-2f07-4b6f-b4ad-a3b4b2e06d1a)
 
 
 ## Result: 
